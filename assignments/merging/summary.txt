@@ -1,0 +1,2 @@
+In slide ::
+Merging …integrate the changes made in one branch into another branch.
