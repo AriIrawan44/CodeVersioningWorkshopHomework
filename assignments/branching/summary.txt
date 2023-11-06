@@ -4,6 +4,6 @@ You want to have new copy of your code, without copying manually.
 
 I think thats true
 
-It's should be easy to create new branch
+saya ubah file ini juga
 
 saya ubah file ini
