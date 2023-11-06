@@ -2,3 +2,5 @@ In slide ::
 Merging …integrate the changes made in one branch into another branch.
 
 Need to Pull Request before merging
+
+The PR Must to be approve before merge
